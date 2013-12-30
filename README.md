@@ -10,10 +10,10 @@ you require gmake
 > make  
 
 ## usage
-> kr-train.exe data.txt model.txt
-> kr-predict.exe model.txt test.txt > result.txt
-> gnuplot
-> splot "result.txt"
+> kr-train.exe data.txt model.txt  
+> kr-predict.exe model.txt test.txt > result.txt  
+> gnuplot  
+> splot "result.txt"  
 
 data.txt format:  
 x1[TAB]x2[TAB] ...  y  
