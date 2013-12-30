@@ -18,13 +18,7 @@ you require gmake
 data.txt format:  
 x1[TAB]x2[TAB] ...  y  
 x1[TAB]x2[TAB] ...  y  
-.  
-.  
-.  
 
 test.txt format:  
 x1[TAB]x2[TAB] ...  
 x1[TAB]x2[TAB] ...  
-.  
-.  
-.  
