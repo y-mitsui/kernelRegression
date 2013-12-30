@@ -3,28 +3,28 @@ kernelRegression
 
 A kernel regression tool.
 
-install:
+install:  
 
-you require gmake
+you require gmake  
 
-# make
+> make  
 
-usage:
-kr-train.exe data.txt model.txt
-kr-predict.exe model.txt test.txt > result.txt
-gnuplot
->splot "result.txt"
+usage:  
+> kr-train.exe data.txt model.txt
+> kr-predict.exe model.txt test.txt > result.txt
+> gnuplot
+> splot "result.txt"
 
-data.txt format:
-x1[TAB]x2[TAB] ...  y
-x1[TAB]x2[TAB] ...  y
-.
-.
-.
+data.txt format:  
+x1[TAB]x2[TAB] ...  y  
+x1[TAB]x2[TAB] ...  y  
+.  
+.  
+.  
 
-test.txt format:
-x1[TAB]x2[TAB] ...
-x1[TAB]x2[TAB] ...
-.
-.
-.
+test.txt format:  
+x1[TAB]x2[TAB] ...  
+x1[TAB]x2[TAB] ...  
+.  
+.  
+.  
