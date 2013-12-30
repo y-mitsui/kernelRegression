@@ -1,7 +1,7 @@
 kernelRegression
 ================
 
-A kernel regression tool that is written by C.
+This program is simple kernel regression tool that is written by C.
 
 ## install
 
