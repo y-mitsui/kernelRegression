@@ -3,13 +3,13 @@ kernelRegression
 
 A kernel regression tool.
 
-install:  
+## install
 
 you require gmake  
 
 > make  
 
-usage:  
+## usage
 > kr-train.exe data.txt model.txt
 > kr-predict.exe model.txt test.txt > result.txt
 > gnuplot
